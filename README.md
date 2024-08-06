@@ -13,11 +13,12 @@ check out my github pages for all the project I worked on
 
 - 🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
 - 🌱 I’m currently learning computer vision. 
-- 📫 How to reach me: let's connect on LinkedIn
+- 📫 How to reach me: let's connect on [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 - ⚡ Fun fact: I am an amateur photographer 
   
 ## Project List 
 ### Machine Learning Related 
+- Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
 ### Data Science Related 
 
 ## Course Work
