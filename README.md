@@ -7,14 +7,15 @@
 <!--
 **mei-pan/mei-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+I am a biologist by training. Had worked in academaic and biotech settings for the past few years focus on neuroscience and drug discovery. 
+through my last position,  I got a chance to see the potiential of artifical intelligence in drug discovery and decided to embrack on this career transition journey to self study AI. 
+check out my github pages for all the project I worked on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
+- 🌱 I’m currently learning computer vision. 
+- 📫 How to reach me: let's connect on LinkedIn
+- ⚡ Fun fact: I am an amateur photographer 
+  
 ## Project List 
-- Blah
+### Machine Learning Related 
+### Data Science Related 
