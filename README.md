@@ -16,12 +16,12 @@ check out my github pages for all the project I worked on
 - 📫 How to reach me: let's connect on [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 - ⚡ Fun fact: I am an amateur photographer 
   
-## Project List 
+## Projects
 ### Machine Learning Related 
 - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
 ### Data Science Related 
 
-## Course Work
+## Courses
 - Machine Learning Specalization
 - Deep Learning Specalization
 - AI for Medicine Specalization : [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization)
