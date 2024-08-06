@@ -19,3 +19,8 @@ check out my github pages for all the project I worked on
 ## Project List 
 ### Machine Learning Related 
 ### Data Science Related 
+
+## Course Work
+- Machine Learning Specalization
+- Deep Learning Specalization
+- AI for Medicine Specalization : [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization)
