@@ -19,6 +19,7 @@ check out my github pages for all the project I worked on
 ## Projects
 ### Machine Learning Related 
 - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
+- Antartic Penguin Species Cluter Analysis [Link](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
 ### Data Science Related 
 - Tasty Bytes - Recipe Site Traffic Analsis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
 ## Courses
