@@ -20,8 +20,8 @@ check out my github pages for all the project I worked on
 ### Machine Learning Related 
 - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
 ### Data Science Related 
-
+- Tasty Bytes - Recipe Site Traffic Analsis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
 ## Courses
-- Machine Learning Specalization
-- Deep Learning Specalization
+- Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
+- Deep Learning Specalization : [Link](https://github.com/mei-pan/Deep_Learning_Specialization)
 - AI for Medicine Specalization : [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization)
