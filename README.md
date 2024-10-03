@@ -17,11 +17,16 @@ check out my github pages for all the project I worked on
 - ⚡ Fun fact: I am an amateur photographer 
   
 ## Projects
-### Machine Learning Related 
+### Machine Learning:
+#### Traditional ML
 - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
 - Antartic Penguin Species Cluter Analysis [Link](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
-### Data Science Related 
+#### Computer Vision 
+#### Natural Language Processing 
+
+### Data Science:
 - Tasty Bytes - Recipe Site Traffic Analsis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
+  
 ## Courses
 - Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
 - Deep Learning Specalization : [Link](https://github.com/mei-pan/Deep_Learning_Specialization)
