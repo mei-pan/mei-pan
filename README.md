@@ -7,9 +7,9 @@
 <!--
 **mei-pan/mei-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a biologist by training. Had worked in academaic and biotech settings for the past few years focus on neuroscience and drug discovery. 
-through my last position,  I got a chance to see the potiential of artifical intelligence in drug discovery and decided to embrack on this career transition journey to self study AI. 
-check out my github pages for all the project I worked on 
+I am a biologist by training. Had worked in academaic and biotech settings for the past few years focus on developing cellular models and assays for drug discovery in neuronal diseases. 
+through my last position,  I got a chance to see the potiential of artifical intelligence in drug discovery and collaborate with ML engineering and Data scientists to build platform and tools that combine biology and artifial intellgience to discovery and design better drugs. I decided to embrack on this career transition journey to self study AI. 
+check out my github pages for all the project I worked on.
 
 - 🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
 - 🌱 I’m currently learning computer vision. 
