@@ -31,3 +31,8 @@ check out my github pages for all the project I worked on.
 - Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
 - Deep Learning Specalization : [Link](https://github.com/mei-pan/Deep_Learning_Specialization)
 - AI for Medicine Specalization : [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization)
+- Natural Language Processing:
+- Math for Machine Learning and Data Science:
+- Data Science Professional
+- 
+  
