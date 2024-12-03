@@ -26,7 +26,7 @@ TBD
 ### Data Science:
 - Tasty Bytes - Recipe Site Traffic Analsis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
   
-## Courses
+## Courses & Course Projects 
 - Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
 - Deep Learning Specalization : [Link](https://github.com/mei-pan/Deep_Learning_Specialization)
 - AI for Medicine Specalization : [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization)
