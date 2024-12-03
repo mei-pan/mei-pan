@@ -7,22 +7,21 @@
 <!--
 **mei-pan/mei-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I am a biologist by training. Had worked in academaic and biotech settings for the past few years focus on developing cellular models and assays for drug discovery in neuronal diseases. 
-through my last position,  I got a chance to see the potiential of artifical intelligence in drug discovery and collaborate with ML engineering and Data scientists to build platform and tools that combine biology and artifial intellgience to discovery and design better drugs. I decided to embrack on this career transition journey to self study AI. 
-check out my github pages for all the project I worked on.
+TBD
 
 - 🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
-- 🌱 I’m currently learning computer vision. 
+- 🌱 I’m currently learning computer vision and natural language processing. 
 - 📫 How to reach me: let's connect on [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
-- ⚡ Fun fact: I am an amateur photographer 
+
   
 ## Projects
-### Machine Learning:
-#### Traditional ML
-- Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
-- Antartic Penguin Species Cluter Analysis [Link](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
-#### Computer Vision 
-#### Natural Language Processing 
+### Artifical Intelligence:
+- #### Traditional ML
+&nbsp; &nbsp; &nbsp; &nbsp; - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
+
+&nbsp; &nbsp; &nbsp; &nbsp; - Antartic Penguin Species Cluter Analysis [Link](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
+- #### Computer Vision 
+- #### Natural Language Processing 
 
 ### Data Science:
 - Tasty Bytes - Recipe Site Traffic Analsis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
