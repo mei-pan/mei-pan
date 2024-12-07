@@ -7,12 +7,20 @@
 <!--
 **mei-pan/mei-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+🚧 
+
 TBD
 
+<!-- My education background is in life science mainly focused on cellular and molecular biology. In my previous positions, I worked on many projects invovled in developing disease model using human stem cell. It is in my last position, where I get chance to work in the industry and collaborate with data scientists and machine learning engineers. That's where I understood the impact of AI on drug discovery. with that curiosity, I took some time off focus on developing those skills in AI hoping working on projects that combine my background and my newly acquried skills in drug discovery. -->
+
+
+
+
+🚧
 - 🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
 - 🌱 I’m currently learning computer vision and natural language processing. 
 - 📫 How to reach me: let's connect on [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
-
+🚧
   
 ## Projects
 ### Artifical Intelligence:
@@ -24,7 +32,7 @@ TBD
 - #### Natural Language Processing 
 
 ### Data Science:
-- Tasty Bytes - Recipe Site Traffic Analsis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
+- Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
   
 ## Courses & Course Projects 
 - Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
