@@ -34,7 +34,7 @@ TBD
 ### Data Science:
 - Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
   
-## Courses & Course Projects 
+## Courses & Projects 
 - Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
 - Deep Learning Specalization : [Link](https://github.com/mei-pan/Deep_Learning_Specialization)
 - AI for Medicine Specalization : [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization)
