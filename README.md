@@ -24,7 +24,7 @@ TBD
   
 ## Projects
 ### Artifical Intelligence:
-- #### Traditional ML
+- #### Classic ML
 &nbsp; &nbsp; &nbsp; &nbsp; - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
 
 &nbsp; &nbsp; &nbsp; &nbsp; - Antartic Penguin Species Cluter Analysis [Link](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
