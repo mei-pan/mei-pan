@@ -4,23 +4,20 @@
 
 ## Welcome to my Github Page👋
 
-<!--
-**mei-pan/mei-pan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I’m a Data Scientist with a background in Cellular and Molecular Biology and a strong focus on Neuroscience. I’ve spent several years working in both academia and industry, primarily using human pluripotent stem cells to model and study diseases, with the ultimate goal of advancing our understanding and finding cures, particularly in the realm of neurological disorders.
 
-🚧 
+In my most recent role at a biotech company, I had the unique opportunity worked with many talents people to bridge human biology, data science, and artificial intelligence to advance drug discovery. This exposure sparked my passion for AI, and I am now deeply focused on gaining expertise in data science and artifical intelligence through self-directed studies and hands-on projects.
 
-TBD
+You will find courses I took and the projects I worked on below! 
 
-<!-- My education background is in life science mainly focused on cellular and molecular biology. In my previous positions, I worked on many projects invovled in developing disease model using human stem cell. It is in my last position, where I get chance to work in the industry and collaborate with data scientists and machine learning engineers. That's where I understood the impact of AI on drug discovery. with that curiosity, I took some time off focus on developing those skills in AI hoping working on projects that combine my background and my newly acquried skills in drug discovery. -->
-
+Let’s connect and make an impact! 🚀
 
 
+<!--🔭 I’m currently working on developing skills in machine learning and artifical intelligence. -->
+🌱 I’m currently learning computer vision and natural language processing. 
 
-🚧
-- 🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
-- 🌱 I’m currently learning computer vision and natural language processing. 
-- 📫 How to reach me: let's connect on [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
-🚧
+📫 How to reach me: let's connect on [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
+
   
 ## Projects
 ### Artifical Intelligence:
