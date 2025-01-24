@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ3YTMwM2RyNGhiNnU0ZmZmOGtsMDZ2b3l0MHdieHBxZGFiZzF4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vTNWp0OA3qg9dBzhog/giphy.gif" width="300"/>
 </div>
 
-## Welcome to my Github Page👋
+# Welcome to my Github Page👋
 
 I’m a Data Scientist with a background in Cellular and Molecular Biology and a strong focus on Neuroscience. I’ve spent several years working in both academia and industry, primarily using human pluripotent stem cells to model and study diseases, with the ultimate goal of advancing our understanding and finding cures, particularly in the realm of neurological disorders.
 
@@ -28,9 +28,9 @@ Let’s connect and make an impact! 🚀
 - #### Computer Vision 
 - #### Natural Language Processing 
 
-### Data Science:
+### Data Science/Python:
 - Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
-  
+- Nutrition Calculator [Link](https://github.com/mei-pan/nutrition_calculator/tree/main) 
 ## Courses & Projects 
 - Machine Learning Specalization : [Link](https://github.com/mei-pan/Machine_Learning_Specialization)
 - Deep Learning Specalization : [Link](https://github.com/mei-pan/Deep_Learning_Specialization)
