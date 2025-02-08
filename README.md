@@ -19,15 +19,16 @@ Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
   
 ## Projects
 ### Artifical Intelligence:
-- #### Classic ML
+#### Classic ML
 &nbsp; &nbsp; &nbsp; &nbsp; - Bee Classification  [Link](https://github.com/mei-pan/Bee-Classification/tree/main)
 
 &nbsp; &nbsp; &nbsp; &nbsp; - Antartic Penguin Species Cluter Analysis [Link](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
-- #### Computer Vision
+#### Computer Vision
 &nbsp; &nbsp; &nbsp; &nbsp; - Chest X-Ray Medical Diagnosis with Deep Learning 
-- #### Natural Language Processing 
-&nbsp; &nbsp; &nbsp; &nbsp; - Sentiment Analysis with Logistic Regression  
-&nbsp; &nbsp; &nbsp; &nbsp; - Sentiment Analysis with Naive Bayes Model  
+#### Natural Language Processing 
+&nbsp; &nbsp; &nbsp; &nbsp; - Sentiment Analysis with Logistic Regression. [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)  
+&nbsp; &nbsp; &nbsp; &nbsp; - Sentiment Analysis with Naive Bayes Model.   [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)   
+&nbsp; &nbsp; &nbsp; &nbsp; - Vector Space Model and PCA. [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)  
 ### Data Science/Python:
 - Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
 - Nutrition Calculator [Link](https://github.com/mei-pan/nutrition_calculator/tree/main) 
