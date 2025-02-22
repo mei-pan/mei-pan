@@ -29,8 +29,8 @@ Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 &nbsp; &nbsp; &nbsp; &nbsp; - Sentiment Analysis with Logistic Regression [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)  
 &nbsp; &nbsp; &nbsp; &nbsp; - Sentiment Analysis with Naive Bayes Model   [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)   
 &nbsp; &nbsp; &nbsp; &nbsp; - Vector Space Model and PCA [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)  
-&nbsp; &nbsp; &nbsp; &nbsp; - Machine Translation and LSH (Local Sensitive Hashing) [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)
-
+&nbsp; &nbsp; &nbsp; &nbsp; - Machine Translation and LSH (Local Sensitive Hashing) [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
+&nbsp; &nbsp; &nbsp; &nbsp; - Autocorrection [Link](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
 ### Data Science/Python:
 - Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis [Link](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)
 - Nutrition Calculator [Link](https://github.com/mei-pan/nutrition_calculator/tree/main) 
