@@ -20,19 +20,19 @@ Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 # Projects List
 ## Artifical Intelligence
 ### Classic ML
-&nbsp; &nbsp; &nbsp; &nbsp; - [Bee Classification](https://github.com/mei-pan/Bee-Classification/tree/main)    
-&nbsp; &nbsp; &nbsp; &nbsp; - [Antartic Penguin Species Cluter Analysis](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
+- [Bee Classification](https://github.com/mei-pan/Bee-Classification/tree/main)    
+- [Antartic Penguin Species Cluter Analysis](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
 ### Computer Vision
-&nbsp; &nbsp; &nbsp; &nbsp; - Chest X-Ray Medical Diagnosis with Deep Learning 
+- Chest X-Ray Medical Diagnosis with Deep Learning 
 ### Natural Language Processing 
-&nbsp; &nbsp; &nbsp; &nbsp; - [Sentiment Analysis with Logistic Regression](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)  
-&nbsp; &nbsp; &nbsp; &nbsp; - [Sentiment Analysis with Naive Bayes Model](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)   
-&nbsp; &nbsp; &nbsp; &nbsp; - [Vector Space Model and PCA](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)  
-&nbsp; &nbsp; &nbsp; &nbsp; - [Machine Translation and LSH (Local Sensitive Hashing)](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
-&nbsp; &nbsp; &nbsp; &nbsp; - [Autocorrection](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
+- [Sentiment Analysis with Logistic Regression](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)  
+- [Sentiment Analysis with Naive Bayes Model](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W2_Navie%20Bayes.ipynb)   
+- [Vector Space Model and PCA](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)  
+- [Machine Translation and LSH (Local Sensitive Hashing)](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
+- [Autocorrection](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
 ## Data Science/Python:
-&nbsp; &nbsp; &nbsp; &nbsp; - [Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)   
-&nbsp; &nbsp; &nbsp; &nbsp; - [Nutrition Calculator](https://github.com/mei-pan/nutrition_calculator/tree/main)
+- [Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)   
+- [Nutrition Calculator](https://github.com/mei-pan/nutrition_calculator/tree/main)
   
 ## Life Science/Drug Discovery Related: 🚧
 
