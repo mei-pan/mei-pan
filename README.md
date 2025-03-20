@@ -42,7 +42,7 @@ Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 - [Deep Learning Specalization](https://github.com/mei-pan/Deep_Learning_Specialization)
 - [AI for Medicine Specalization](https://github.com/mei-pan/AI_for_Medicine_Specalization)
 - [Natural Language Processing](https://github.com/mei-pan/Natural_Language_Processing_Specialization)
-- Math for Machine Learning and Data Science: 
+- Math for Machine Learning and Data Science
 <!--- Data Science Professional
 - -->
   
