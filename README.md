@@ -37,7 +37,7 @@ Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 ## Life Science/Drug Discovery Related: TBD
 
 
-## Courses
+# Courses List
 - [Machine Learning Specalization](https://github.com/mei-pan/Machine_Learning_Specialization)
 - [Deep Learning Specalization](https://github.com/mei-pan/Deep_Learning_Specialization)
 - [AI for Medicine Specalization](https://github.com/mei-pan/AI_for_Medicine_Specalization)
