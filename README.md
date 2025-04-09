@@ -33,6 +33,7 @@ Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan)
 ## Data Science Section:
 - [Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)   
 - [Nutrition Calculator](https://github.com/mei-pan/nutrition_calculator/tree/main)
+- [Register App User](https://github.com/mei-pan/function_register_app_users/tree/main)
   
 ## Life Science/Drug Discovery Related: TBD
 
