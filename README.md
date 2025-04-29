@@ -51,6 +51,7 @@ You will find courses I took and the projects I worked on below!
 - Math for Machine Learning and Data Science
 - Generative AI Engineering with LLMs
 - Generative Adversrial Networks (GANs)
+- TensorFlow Developer
 <!--- Data Science Professional
 - -->
   
