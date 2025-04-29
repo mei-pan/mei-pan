@@ -49,6 +49,8 @@ You will find courses I took and the projects I worked on below!
 - [AI for Medicine Specalization](https://github.com/mei-pan/AI_for_Medicine_Specalization)
 - [Natural Language Processing](https://github.com/mei-pan/Natural_Language_Processing_Specialization)
 - Math for Machine Learning and Data Science
+- Generative AI Engineering with LLMs
+- Generative Adversrial Networks (GANs)
 <!--- Data Science Professional
 - -->
   
