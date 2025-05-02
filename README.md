@@ -40,8 +40,8 @@ You will find courses I took and the projects I worked on below!
 - [Register App User](https://github.com/mei-pan/function_register_app_users/tree/main)
 - [Dance Party Song Prediction](https://github.com/mei-pan/Dance_party_Playlist_prediciton/blob/main/dance_party_song_list.ipynb)
   
-## Life Science/Drug Discovery Related: TBD
-
+## Life Science/Drug Discovery Related: 
+- [QSAR](https://github.com/mei-pan/QSAR)
 
 # Courses List
 - [Machine Learning Specalization](https://github.com/mei-pan/Machine_Learning_Specialization)
