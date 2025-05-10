@@ -34,6 +34,10 @@ You will find courses I took and the projects I worked on below!
 - [Machine Translation and LSH (Local Sensitive Hashing)](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
 - [Autocorrection](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
 
+### GANs
+
+### Generative AI/LLM
+
 ## Data Science Section:
 - [Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)   
 - [Nutrition Calculator](https://github.com/mei-pan/nutrition_calculator/tree/main)
