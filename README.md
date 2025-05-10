@@ -25,7 +25,7 @@ You will find courses I took and the projects I worked on below!
 - [Antartic Penguin Species Cluter Analysis](https://github.com/mei-pan/Antarctic-Penguin-Species-Cluster-Analysis)
 
 ### Computer Vision
-- Chest X-Ray Medical Diagnosis with Deep Learning 
+- [Chest X-Ray Medical Diagnosis with Deep Learning](https://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week1/C1_W1_Assignment.ipynb)
 
 ### Natural Language Processing 
 - [Sentiment Analysis with Logistic Regression](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W1_Logistic%20Regression%20%20.ipynb)  
@@ -33,6 +33,8 @@ You will find courses I took and the projects I worked on below!
 - [Vector Space Model and PCA](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W3_Vector_Space_Model.ipynb)  
 - [Machine Translation and LSH (Local Sensitive Hashing)](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C1_W4_Naive_Machine_Translation_and_LSH.ipynb)   
 - [Autocorrection](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
+- [POS Tagging](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
+
 
 ### GANs
 
