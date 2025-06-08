@@ -48,6 +48,7 @@ You will find courses I took and the projects I worked on below!
   
 ## Life Science/Drug Discovery Related: 
 - [QSAR](https://github.com/mei-pan/QSAR)
+- [Tumor Detection with Brain MRI](https://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week3/C1_W3_Assignment.ipynb)
 
 # Courses List
 - [Machine Learning Specalization](https://github.com/mei-pan/Machine_Learning_Specialization)
