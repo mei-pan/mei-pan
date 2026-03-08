@@ -32,9 +32,7 @@
 - [POS Tagging](https://github.com/mei-pan/Natural_Language_Processing_Specialization/blob/main/NLP_C2_W1_Autocorrect/NLP_C2_W1_Autocorrect.ipynb)
 
 
-### GANs
 
-### Generative AI/LLM
 
 ## Data Science Section:
 - [Certification Case Study: Tasty Bytes - Recipe Site Traffic Analysis](https://github.com/mei-pan/Tastey_Bytes_in-process/tree/main)   
@@ -53,7 +51,7 @@
 - [AI for Medicine Specalization](https://github.com/mei-pan/AI_for_Medicine_Specalization)
 - [Natural Language Processing](https://github.com/mei-pan/Natural_Language_Processing_Specialization)
 - Math for Machine Learning and Data Science
-- Generative AI Engineering with LLMs
+<!--- - Generative AI Engineering with LLMs
 - Generative Adversrial Networks (GANs)
 - TensorFlow Developer
 <!--- Data Science Professional
