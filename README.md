@@ -3,6 +3,11 @@
 </div>
 
 # Welcome to my Github Page👋
+I'm a hybrid scientist at the intersection of biology and AI — with a background in biology, experience in AI-driven biotech, and self-directed studies in AI.
+
+My scientific career centered on disease modeling in the context of therapeutics and drug discovery, with a particular focus on neurological diseases. Working alongside talented scientists, ML engineers, and automation teams on high-impact projects gave me firsthand exposure to the transformative potential of AI in therapeutic development — and that experience led to my pursuit of data science and AI, building working knowledge across machine learning, deep learning, NLP, and more.
+
+This repository is a reflection of that journey — a growing collection of projects at the AI x Bio intersection and beyond.
 
 
 
