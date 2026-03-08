@@ -4,11 +4,7 @@
 
 # Welcome to my Github Page👋
 
-I’m a Data Scientist with a background in Cellular and Molecular Biology and a strong focus on Neuroscience. I’ve spent several years working in both academia and industry, primarily using human pluripotent stem cells to model and study diseases, with the ultimate goal of advancing our understanding and finding cures, particularly in the realm of neurological disorders.
 
-In my most recent role at a biotech company, I had the unique opportunity worked with many talents people to bridge human biology, data science, and artificial intelligence to advance drug discovery. This exposure sparked my passion for AI, and I am now deeply focused on gaining expertise in data science and artifical intelligence through self-directed studies and hands-on projects.
-
-You will find courses I took and the projects I worked on below!
 
 
 <!--🔭 I’m currently working on developing skills in machine learning and artifical intelligence. 
