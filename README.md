@@ -18,8 +18,8 @@ This repository is a reflection of that journey — a growing collection of proj
 <!--Let's connect! [LinkedIn](https://www.linkedin.com/in/meiliang-pan) -->
 
   
-# Projects List
-## Artifical Intelligence Section:
+# Project List
+## AI Section:
 
 ### Classic ML
 - [Bee Classification](https://github.com/mei-pan/Bee-Classification/tree/main)    
